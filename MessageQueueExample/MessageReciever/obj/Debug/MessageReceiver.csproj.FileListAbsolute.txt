@@ -1,0 +1,15 @@
+c:\users\patrick\documents\visual studio 2013\Projects\MessageQueueExample\MessageReciever\bin\Debug\MessageReciever.exe.config
+c:\users\patrick\documents\visual studio 2013\Projects\MessageQueueExample\MessageReciever\bin\Debug\MessageReciever.exe
+c:\users\patrick\documents\visual studio 2013\Projects\MessageQueueExample\MessageReciever\bin\Debug\MessageReciever.pdb
+c:\users\patrick\documents\visual studio 2013\Projects\MessageQueueExample\MessageReciever\obj\Debug\MessageReceiver.csprojResolveAssemblyReference.cache
+c:\users\patrick\documents\visual studio 2013\Projects\MessageQueueExample\MessageReciever\obj\Debug\MessageReciever.exe
+c:\users\patrick\documents\visual studio 2013\Projects\MessageQueueExample\MessageReciever\obj\Debug\MessageReciever.pdb
+C:\Users\Patrick\Google Drev\MessageQueueExample\MessageReciever\bin\Debug\MessageReciever.exe.config
+C:\Users\Patrick\Google Drev\MessageQueueExample\MessageReciever\obj\Debug\MessageReciever.exe
+C:\Users\Patrick\Google Drev\MessageQueueExample\MessageReciever\obj\Debug\MessageReciever.pdb
+C:\Users\Patrick\Google Drev\MessageQueueExample\MessageReciever\bin\Debug\MessageReciever.exe
+C:\Users\Patrick\Google Drev\MessageQueueExample\MessageReciever\bin\Debug\MessageReciever.pdb
+C:\Users\Patrick\Google Drev\MessageQueueExample\MessageReciever\obj\Debug\MessageReceiver.csprojResolveAssemblyReference.cache
+C:\Users\Patrick\Google Drev\Code\Projects\MessageQueueExample\MessageReciever\bin\Debug\MessageReciever.exe.config
+C:\Users\Patrick\Google Drev\Code\Projects\MessageQueueExample\MessageReciever\obj\Debug\MessageReciever.exe
+C:\Users\Patrick\Google Drev\Code\Projects\MessageQueueExample\MessageReciever\obj\Debug\MessageReciever.pdb

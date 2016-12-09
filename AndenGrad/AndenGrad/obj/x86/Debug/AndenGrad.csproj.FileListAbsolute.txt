@@ -1,0 +1,10 @@
+C:\Users\Patrick Larsen\AppData\Local\Temporary Projects\AndenGrad\bin\Debug\AndenGrad.exe
+C:\Users\Patrick Larsen\AppData\Local\Temporary Projects\AndenGrad\bin\Debug\AndenGrad.pdb
+C:\Users\Patrick Larsen\AppData\Local\Temporary Projects\AndenGrad\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Patrick Larsen\AppData\Local\Temporary Projects\AndenGrad\obj\x86\Debug\AndenGrad.exe
+C:\Users\Patrick Larsen\AppData\Local\Temporary Projects\AndenGrad\obj\x86\Debug\AndenGrad.pdb
+C:\Users\Patrick Larsen\documents\visual studio 2010\Projects\AndenGrad\AndenGrad\obj\x86\Debug\AndenGrad.exe
+C:\Users\Patrick Larsen\documents\visual studio 2010\Projects\AndenGrad\AndenGrad\obj\x86\Debug\AndenGrad.pdb
+C:\Users\Patrick Larsen\documents\visual studio 2010\Projects\AndenGrad\AndenGrad\bin\Debug\AndenGrad.exe
+C:\Users\Patrick Larsen\documents\visual studio 2010\Projects\AndenGrad\AndenGrad\bin\Debug\AndenGrad.pdb
+C:\Users\Patrick Larsen\documents\visual studio 2010\Projects\AndenGrad\AndenGrad\obj\x86\Debug\ResolveAssemblyReference.cache

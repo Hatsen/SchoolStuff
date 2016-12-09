@@ -1,0 +1,18 @@
+C:\Users\Patrick Larsen\AppData\Local\Temporary Projects\HesteOpg\bin\Debug\HesteOpg.exe
+C:\Users\Patrick Larsen\AppData\Local\Temporary Projects\HesteOpg\bin\Debug\HesteOpg.pdb
+C:\Users\Patrick Larsen\AppData\Local\Temporary Projects\HesteOpg\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Patrick Larsen\AppData\Local\Temporary Projects\HesteOpg\obj\x86\Debug\HesteOpg.Form1.resources
+C:\Users\Patrick Larsen\AppData\Local\Temporary Projects\HesteOpg\obj\x86\Debug\HesteOpg.Properties.Resources.resources
+C:\Users\Patrick Larsen\AppData\Local\Temporary Projects\HesteOpg\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Patrick Larsen\AppData\Local\Temporary Projects\HesteOpg\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Patrick Larsen\AppData\Local\Temporary Projects\HesteOpg\obj\x86\Debug\HesteOpg.exe
+C:\Users\Patrick Larsen\AppData\Local\Temporary Projects\HesteOpg\obj\x86\Debug\HesteOpg.pdb
+C:\Users\Patrick Larsen\documents\visual studio 2010\Projects\HesteOpg\HesteOpg\obj\x86\Debug\HesteOpg.exe
+C:\Users\Patrick Larsen\documents\visual studio 2010\Projects\HesteOpg\HesteOpg\obj\x86\Debug\HesteOpg.pdb
+C:\Users\Patrick Larsen\documents\visual studio 2010\Projects\HesteOpg\HesteOpg\bin\Debug\HesteOpg.exe
+C:\Users\Patrick Larsen\documents\visual studio 2010\Projects\HesteOpg\HesteOpg\bin\Debug\HesteOpg.pdb
+C:\Users\Patrick Larsen\documents\visual studio 2010\Projects\HesteOpg\HesteOpg\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Patrick Larsen\documents\visual studio 2010\Projects\HesteOpg\HesteOpg\obj\x86\Debug\HesteOpg.Form1.resources
+C:\Users\Patrick Larsen\documents\visual studio 2010\Projects\HesteOpg\HesteOpg\obj\x86\Debug\HesteOpg.Properties.Resources.resources
+C:\Users\Patrick Larsen\documents\visual studio 2010\Projects\HesteOpg\HesteOpg\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Patrick Larsen\documents\visual studio 2010\Projects\HesteOpg\HesteOpg\obj\x86\Debug\GenerateResource.write.1.tlog

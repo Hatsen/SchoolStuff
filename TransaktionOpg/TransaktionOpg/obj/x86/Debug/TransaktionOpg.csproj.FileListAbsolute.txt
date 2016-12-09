@@ -1,0 +1,5 @@
+C:\Users\Patrick Larsen\documents\visual studio 2010\Projects\TransaktionOpg\TransaktionOpg\bin\Debug\TransaktionOpg.exe
+C:\Users\Patrick Larsen\documents\visual studio 2010\Projects\TransaktionOpg\TransaktionOpg\bin\Debug\TransaktionOpg.pdb
+C:\Users\Patrick Larsen\documents\visual studio 2010\Projects\TransaktionOpg\TransaktionOpg\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Patrick Larsen\documents\visual studio 2010\Projects\TransaktionOpg\TransaktionOpg\obj\x86\Debug\TransaktionOpg.exe
+C:\Users\Patrick Larsen\documents\visual studio 2010\Projects\TransaktionOpg\TransaktionOpg\obj\x86\Debug\TransaktionOpg.pdb

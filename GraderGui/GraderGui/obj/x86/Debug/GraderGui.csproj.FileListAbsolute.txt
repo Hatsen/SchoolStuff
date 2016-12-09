@@ -1,0 +1,18 @@
+C:\Users\Patrick Larsen\AppData\Local\Temporary Projects\GraderGui\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Patrick Larsen\AppData\Local\Temporary Projects\GraderGui\obj\x86\Debug\GraderGui.Form1.resources
+C:\Users\Patrick Larsen\AppData\Local\Temporary Projects\GraderGui\obj\x86\Debug\GraderGui.Properties.Resources.resources
+C:\Users\Patrick Larsen\AppData\Local\Temporary Projects\GraderGui\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Patrick Larsen\AppData\Local\Temporary Projects\GraderGui\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Patrick Larsen\AppData\Local\Temporary Projects\GraderGui\bin\Debug\GraderGui.exe
+C:\Users\Patrick Larsen\AppData\Local\Temporary Projects\GraderGui\bin\Debug\GraderGui.pdb
+C:\Users\Patrick Larsen\AppData\Local\Temporary Projects\GraderGui\obj\x86\Debug\GraderGui.exe
+C:\Users\Patrick Larsen\AppData\Local\Temporary Projects\GraderGui\obj\x86\Debug\GraderGui.pdb
+C:\Users\Patrick Larsen\Documents\Visual Studio 2010\Projects\GraderGui\GraderGui\obj\x86\Debug\GraderGui.exe
+C:\Users\Patrick Larsen\Documents\Visual Studio 2010\Projects\GraderGui\GraderGui\obj\x86\Debug\GraderGui.pdb
+C:\Users\Patrick Larsen\Documents\Visual Studio 2010\Projects\GraderGui\GraderGui\bin\Debug\GraderGui.exe
+C:\Users\Patrick Larsen\Documents\Visual Studio 2010\Projects\GraderGui\GraderGui\bin\Debug\GraderGui.pdb
+C:\Users\Patrick Larsen\Documents\Visual Studio 2010\Projects\GraderGui\GraderGui\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Patrick Larsen\Documents\Visual Studio 2010\Projects\GraderGui\GraderGui\obj\x86\Debug\GraderGui.Form1.resources
+C:\Users\Patrick Larsen\Documents\Visual Studio 2010\Projects\GraderGui\GraderGui\obj\x86\Debug\GraderGui.Properties.Resources.resources
+C:\Users\Patrick Larsen\Documents\Visual Studio 2010\Projects\GraderGui\GraderGui\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Patrick Larsen\Documents\Visual Studio 2010\Projects\GraderGui\GraderGui\obj\x86\Debug\GenerateResource.write.1.tlog

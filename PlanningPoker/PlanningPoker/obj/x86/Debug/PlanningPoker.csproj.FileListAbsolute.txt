@@ -1,0 +1,10 @@
+C:\Users\Patrick Larsen\AppData\Local\Temporary Projects\PlanningPoker\bin\Debug\PlanningPoker.exe
+C:\Users\Patrick Larsen\AppData\Local\Temporary Projects\PlanningPoker\bin\Debug\PlanningPoker.pdb
+C:\Users\Patrick Larsen\AppData\Local\Temporary Projects\PlanningPoker\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Patrick Larsen\AppData\Local\Temporary Projects\PlanningPoker\obj\x86\Debug\PlanningPoker.exe
+C:\Users\Patrick Larsen\AppData\Local\Temporary Projects\PlanningPoker\obj\x86\Debug\PlanningPoker.pdb
+C:\Users\Patrick Larsen\documents\visual studio 2010\Projects\PlanningPoker\PlanningPoker\obj\x86\Debug\PlanningPoker.exe
+C:\Users\Patrick Larsen\documents\visual studio 2010\Projects\PlanningPoker\PlanningPoker\obj\x86\Debug\PlanningPoker.pdb
+C:\Users\Patrick Larsen\documents\visual studio 2010\Projects\PlanningPoker\PlanningPoker\bin\Debug\PlanningPoker.exe
+C:\Users\Patrick Larsen\documents\visual studio 2010\Projects\PlanningPoker\PlanningPoker\bin\Debug\PlanningPoker.pdb
+C:\Users\Patrick Larsen\documents\visual studio 2010\Projects\PlanningPoker\PlanningPoker\obj\x86\Debug\ResolveAssemblyReference.cache

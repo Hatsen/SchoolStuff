@@ -1,0 +1,10 @@
+C:\Users\Patrick Larsen\AppData\Local\Temporary Projects\CompareTo\bin\Debug\CompareTo.exe
+C:\Users\Patrick Larsen\AppData\Local\Temporary Projects\CompareTo\bin\Debug\CompareTo.pdb
+C:\Users\Patrick Larsen\AppData\Local\Temporary Projects\CompareTo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Patrick Larsen\AppData\Local\Temporary Projects\CompareTo\obj\x86\Debug\CompareTo.exe
+C:\Users\Patrick Larsen\AppData\Local\Temporary Projects\CompareTo\obj\x86\Debug\CompareTo.pdb
+C:\Users\Patrick Larsen\documents\visual studio 2010\Projects\CompareTo\CompareTo\obj\x86\Debug\CompareTo.exe
+C:\Users\Patrick Larsen\documents\visual studio 2010\Projects\CompareTo\CompareTo\obj\x86\Debug\CompareTo.pdb
+C:\Users\Patrick Larsen\Documents\Visual Studio 2010\Projects\CompareTo\CompareTo\bin\Debug\CompareTo.exe
+C:\Users\Patrick Larsen\Documents\Visual Studio 2010\Projects\CompareTo\CompareTo\bin\Debug\CompareTo.pdb
+C:\Users\Patrick Larsen\Documents\Visual Studio 2010\Projects\CompareTo\CompareTo\obj\x86\Debug\ResolveAssemblyReference.cache

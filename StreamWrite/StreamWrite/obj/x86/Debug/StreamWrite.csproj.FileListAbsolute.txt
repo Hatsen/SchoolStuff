@@ -1,0 +1,7 @@
+C:\Users\Patrick Larsen\AppData\Local\Temporary Projects\StreamWrite\bin\Debug\StreamWrite.exe
+C:\Users\Patrick Larsen\AppData\Local\Temporary Projects\StreamWrite\bin\Debug\StreamWrite.pdb
+C:\Users\Patrick Larsen\AppData\Local\Temporary Projects\StreamWrite\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Patrick Larsen\AppData\Local\Temporary Projects\StreamWrite\obj\x86\Debug\StreamWrite.exe
+C:\Users\Patrick Larsen\AppData\Local\Temporary Projects\StreamWrite\obj\x86\Debug\StreamWrite.pdb
+C:\Users\Patrick Larsen\documents\visual studio 2010\Projects\StreamWrite\StreamWrite\obj\x86\Debug\StreamWrite.exe
+C:\Users\Patrick Larsen\documents\visual studio 2010\Projects\StreamWrite\StreamWrite\obj\x86\Debug\StreamWrite.pdb

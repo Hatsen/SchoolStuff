@@ -1,0 +1,5 @@
+C:\Users\Patrick Larsen\AppData\Local\Temporary Projects\SelfTest\bin\Debug\SelfTest.exe
+C:\Users\Patrick Larsen\AppData\Local\Temporary Projects\SelfTest\bin\Debug\SelfTest.pdb
+C:\Users\Patrick Larsen\AppData\Local\Temporary Projects\SelfTest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Patrick Larsen\AppData\Local\Temporary Projects\SelfTest\obj\x86\Debug\SelfTest.exe
+C:\Users\Patrick Larsen\AppData\Local\Temporary Projects\SelfTest\obj\x86\Debug\SelfTest.pdb

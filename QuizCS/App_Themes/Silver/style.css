@@ -1,0 +1,114 @@
+a:link {
+	font-family: Arial;
+	font-size: 12px;
+	font-weight: bold;
+	color: #DA1709;
+}
+
+a:hover {
+	color: #666666; 
+	background-color: #f0f0f0;
+}
+
+a:visited {
+	font-family: Arial;
+	font-size: 12px;
+	font-weight: bold;
+	color: #666666;
+	text-decoration: underline;
+}
+
+.boldtext {
+	font-family: Arial;
+	font-size: 12px;
+	color: #333333;
+	font-weight: bold;
+}
+
+.h1 {
+	background-color: #FFFFFF;
+	font-family: Arial;
+	font-size: 13px;
+	font-style: normal;
+	color: #3B6C9D;
+	font-weight: bold;
+	padding-left: 10px;
+	padding-top: 15px;
+	padding-bottom: 5px;
+	}
+
+.h2 {
+	font-family: Arial;
+	font-size: 12px;
+	color: #333333;
+	padding-left:10px;
+	font-weight: bold;
+}
+
+.login {
+	font-family: Arial;
+	font-size: 12px;
+	color: #333333;
+	font-weight: bold;
+	padding-right: 20px;
+}
+
+.generaltext {
+	font-family: Arial;
+	font-size: 12px;
+	color: #333333;
+	padding-left:10px;
+}
+
+.complete {
+	font-family: Arial;
+	font-size: 11px;
+	color: #FFFFFF;
+	background-color: #B7B2B0;
+	padding-left: 10px;
+	font-weight: bold;
+	border: 2px solid #FFFFFF;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+.correct {
+	font-family: Arial;
+	font-size: 11px;
+	color: #33CC00;
+	background-color: #F6F7F9;
+	padding-left: 10px;
+	font-weight: bold;
+	border: 2px solid #FFFFFF;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+.incorrect {
+	font-family: Arial;
+	text-transform: uppercase;
+	font-size: 11px;
+	color: #DA1709;
+	background-color: #F6F7F9;
+	padding-left: 10px;
+	font-weight: bold;
+	border: 2px solid #FFFFFF;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+.testtitle 
+{
+	font-family: Arial;
+	font-size: 11px;
+	color: #DA1709;
+	font-weight: bold;
+}
+
+.errormessage 
+{
+	font-family: Arial;
+	font-size: 11px;
+	color: #DA1709;
+	font-weight: bold;
+}

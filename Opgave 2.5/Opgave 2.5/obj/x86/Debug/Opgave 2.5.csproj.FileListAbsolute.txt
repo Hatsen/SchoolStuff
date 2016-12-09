@@ -1,0 +1,10 @@
+C:\Users\Patrick Larsen\AppData\Local\Temporary Projects\Opgave 2.5\bin\Debug\Opgave 2.5.exe
+C:\Users\Patrick Larsen\AppData\Local\Temporary Projects\Opgave 2.5\bin\Debug\Opgave 2.5.pdb
+C:\Users\Patrick Larsen\AppData\Local\Temporary Projects\Opgave 2.5\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Patrick Larsen\AppData\Local\Temporary Projects\Opgave 2.5\obj\x86\Debug\Opgave 2.5.exe
+C:\Users\Patrick Larsen\AppData\Local\Temporary Projects\Opgave 2.5\obj\x86\Debug\Opgave 2.5.pdb
+C:\Users\Patrick Larsen\documents\visual studio 2010\Projects\Opgave 2.5\Opgave 2.5\obj\x86\Debug\Opgave 2.5.exe
+C:\Users\Patrick Larsen\documents\visual studio 2010\Projects\Opgave 2.5\Opgave 2.5\obj\x86\Debug\Opgave 2.5.pdb
+C:\Users\Patrick Larsen\Documents\Visual Studio 2010\Projects\Opgave 2.5\Opgave 2.5\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Patrick Larsen\Documents\Visual Studio 2010\Projects\Opgave 2.5\Opgave 2.5\bin\Debug\Opgave 2.5.exe
+C:\Users\Patrick Larsen\Documents\Visual Studio 2010\Projects\Opgave 2.5\Opgave 2.5\bin\Debug\Opgave 2.5.pdb

@@ -1,0 +1,10 @@
+C:\Users\Patrick Larsen\AppData\Local\Temporary Projects\KvadratTal\bin\Debug\KvadratTal.exe
+C:\Users\Patrick Larsen\AppData\Local\Temporary Projects\KvadratTal\bin\Debug\KvadratTal.pdb
+C:\Users\Patrick Larsen\AppData\Local\Temporary Projects\KvadratTal\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Patrick Larsen\AppData\Local\Temporary Projects\KvadratTal\obj\x86\Debug\KvadratTal.exe
+C:\Users\Patrick Larsen\AppData\Local\Temporary Projects\KvadratTal\obj\x86\Debug\KvadratTal.pdb
+C:\Users\Patrick Larsen\documents\visual studio 2010\Projects\KvadratTal\KvadratTal\obj\x86\Debug\KvadratTal.exe
+C:\Users\Patrick Larsen\documents\visual studio 2010\Projects\KvadratTal\KvadratTal\obj\x86\Debug\KvadratTal.pdb
+C:\Users\Patrick Larsen\documents\visual studio 2010\Projects\KvadratTal\KvadratTal\bin\Debug\KvadratTal.exe
+C:\Users\Patrick Larsen\documents\visual studio 2010\Projects\KvadratTal\KvadratTal\bin\Debug\KvadratTal.pdb
+C:\Users\Patrick Larsen\documents\visual studio 2010\Projects\KvadratTal\KvadratTal\obj\x86\Debug\ResolveAssemblyReference.cache

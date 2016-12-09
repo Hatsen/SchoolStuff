@@ -1,0 +1,15 @@
+D:\Projects\Celcius Calculator\Celcius Calculator\bin\Debug\Celcius Calculator.exe
+D:\Projects\Celcius Calculator\Celcius Calculator\bin\Debug\Celcius Calculator.pdb
+D:\Projects\Celcius Calculator\Celcius Calculator\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\Celcius Calculator\Celcius Calculator\obj\x86\Debug\Celcius Calculator.exe
+D:\Projects\Celcius Calculator\Celcius Calculator\obj\x86\Debug\Celcius Calculator.pdb
+Y:\Projects\Celcius Calculator\Celcius Calculator\obj\x86\Debug\Celcius Calculator.exe
+Y:\Projects\Celcius Calculator\Celcius Calculator\obj\x86\Debug\Celcius Calculator.pdb
+Y:\Projects\Celcius Calculator\Celcius Calculator\bin\Debug\Celcius Calculator.exe
+Y:\Projects\Celcius Calculator\Celcius Calculator\bin\Debug\Celcius Calculator.pdb
+Y:\Projects\Celcius Calculator\Celcius Calculator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Patrick Larsen\Google Drev\IDE\Projects\Celcius Calculator\Celcius Calculator\obj\x86\Debug\Celcius Calculator.exe
+C:\Users\Patrick Larsen\Google Drev\IDE\Projects\Celcius Calculator\Celcius Calculator\obj\x86\Debug\Celcius Calculator.pdb
+C:\Users\Patrick Larsen\Google Drev\IDE\Projects\Celcius Calculator\Celcius Calculator\bin\Debug\Celcius Calculator.exe
+C:\Users\Patrick Larsen\Google Drev\IDE\Projects\Celcius Calculator\Celcius Calculator\bin\Debug\Celcius Calculator.pdb
+C:\Users\Patrick Larsen\Google Drev\IDE\Projects\Celcius Calculator\Celcius Calculator\obj\x86\Debug\ResolveAssemblyReference.cache

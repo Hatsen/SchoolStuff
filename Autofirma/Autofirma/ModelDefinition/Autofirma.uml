@@ -1,0 +1,432 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modelStoreModel xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/Kernel" xmlns:dm2="http://schemas.microsoft.com/dsltools/Component" xmlns:dm3="http://schemas.microsoft.com/dsltools/Activity" xmlns:dm4="http://schemas.microsoft.com/dsltools/Interaction" xmlns:dm5="http://schemas.microsoft.com/dsltools/UseCase" xmlns:dm6="http://schemas.microsoft.com/dsltools/UmlModelLibrary" xmlns:dm7="http://schemas.microsoft.com/dsltools/UmlDiagrams" xmlns:dm8="http://schemas.microsoft.com/VisualStudio/TeamArchitect/SequenceDesigner"
+  dslVersion="1.0.0.0"
+  Id="1cc09c5e-d8fe-43b9-bde9-13d363e622ad"
+  name="Autofirma" xmlns="http://schemas.microsoft.com/dsltools/ModelStore">
+  <profileInstances>
+    <packageHasProfileInstances
+      Id="0caec977-1f8c-4ba3-a7db-8cc9ad9cc73b">
+      <profileInstance
+        Id="e34d544e-0fea-4ed6-ac5e-1b74119ac791"
+        name="StandardProfileL2" />
+    </packageHasProfileInstances>
+    <packageHasProfileInstances
+      Id="29349502-908c-4fda-9054-c48619c59ed0">
+      <profileInstance
+        Id="532ea607-fb19-44b8-8502-3351b05452be"
+        name="StandardProfileL3" />
+    </packageHasProfileInstances>
+  </profileInstances>
+  <packagedElements>
+    <packageHasNamedElement>
+      <interaction
+        Id="628d9961-57c4-426a-8520-1497cdf5d141"
+        name="Diagram"
+        collapseFragmentsFlag="false"
+        isActiveClass="false"
+        isAbstract="false"
+        isLeaf="false"
+        isReentrant="false">
+        <fragments>
+          <behaviorExecutionSpecification
+            Id="0b48e30b-be4f-4293-8038-d6e9e74523d2"
+            name="BehaviorExecutionSpecification9">
+            <coveredLifelines>
+              <lifelineMoniker
+                Id="2195525d-7bc1-4811-85ee-edf861ac3dc4"
+                LastKnownName="Patient"
+                LastKnownLocation="Autofirma.uml" />
+            </coveredLifelines>
+            <finish>
+              <executionOccurrenceSpecificationMoniker
+                Id="6ed129cb-62fb-4c14-9b33-0e664a13fd22"
+                LastKnownName="ExecutionOccurrenceSpecification18"
+                LastKnownLocation="Autofirma.uml" />
+            </finish>
+            <start>
+              <executionOccurrenceSpecificationMoniker
+                Id="23ed1260-3806-4e79-9cfa-c54071140da1"
+                LastKnownName="ExecutionOccurrenceSpecification17"
+                LastKnownLocation="Autofirma.uml" />
+            </start>
+            <nestedOccurrences>
+              <messageOccurrenceSpecificationMoniker
+                Id="1efa8a89-37a1-45e2-820b-c8d7cfd18395"
+                LastKnownName="MessageOccurrenceSpecification20"
+                LastKnownLocation="Autofirma.uml" />
+              <messageOccurrenceSpecificationMoniker
+                Id="32045ba8-7c34-4c5c-86bd-f5b1d56889c7"
+                LastKnownName="MessageOccurrenceSpecification21"
+                LastKnownLocation="Autofirma.uml" />
+            </nestedOccurrences>
+          </behaviorExecutionSpecification>
+          <executionOccurrenceSpecification
+            Id="23ed1260-3806-4e79-9cfa-c54071140da1"
+            name="ExecutionOccurrenceSpecification17">
+            <event>
+              <executionOccurrenceSpecificationReferencesEvent>
+                <executionEventMoniker
+                  Id="11c6eb5a-1f8f-4b1d-95b3-b9486616f5b8"
+                  LastKnownName="ExecutionEvent"
+                  LastKnownLocation="Autofirma.uml" />
+              </executionOccurrenceSpecificationReferencesEvent>
+            </event>
+            <covered>
+              <lifelineMoniker
+                Id="2195525d-7bc1-4811-85ee-edf861ac3dc4"
+                LastKnownName="Patient"
+                LastKnownLocation="Autofirma.uml" />
+            </covered>
+          </executionOccurrenceSpecification>
+          <messageOccurrenceSpecification
+            Id="1efa8a89-37a1-45e2-820b-c8d7cfd18395"
+            name="MessageOccurrenceSpecification20">
+            <covered>
+              <lifelineMoniker
+                Id="2195525d-7bc1-4811-85ee-edf861ac3dc4"
+                LastKnownName="Patient"
+                LastKnownLocation="Autofirma.uml" />
+            </covered>
+          </messageOccurrenceSpecification>
+          <messageOccurrenceSpecification
+            Id="d491c77b-607d-4c7c-b769-ed23cd19a93f"
+            name="MessageOccurrenceSpecification19">
+            <covered>
+              <lifelineMoniker
+                Id="b1e8da01-1b22-4d05-8112-2487d7a18369"
+                LastKnownName="Lifeline2"
+                LastKnownLocation="Autofirma.uml" />
+            </covered>
+          </messageOccurrenceSpecification>
+          <messageOccurrenceSpecification
+            Id="32045ba8-7c34-4c5c-86bd-f5b1d56889c7"
+            name="MessageOccurrenceSpecification21">
+            <covered>
+              <lifelineMoniker
+                Id="2195525d-7bc1-4811-85ee-edf861ac3dc4"
+                LastKnownName="Patient"
+                LastKnownLocation="Autofirma.uml" />
+            </covered>
+          </messageOccurrenceSpecification>
+          <messageOccurrenceSpecification
+            Id="6c7a33d0-d340-41eb-b579-b70b6d185d7d"
+            name="MessageOccurrenceSpecification22">
+            <covered>
+              <lifelineMoniker
+                Id="b1e8da01-1b22-4d05-8112-2487d7a18369"
+                LastKnownName="Lifeline2"
+                LastKnownLocation="Autofirma.uml" />
+            </covered>
+          </messageOccurrenceSpecification>
+          <executionOccurrenceSpecification
+            Id="6ed129cb-62fb-4c14-9b33-0e664a13fd22"
+            name="ExecutionOccurrenceSpecification18">
+            <event>
+              <executionOccurrenceSpecificationReferencesEvent>
+                <executionEventMoniker
+                  Id="96bfa62e-4860-46a0-a536-60330ab11013"
+                  LastKnownName="ExecutionEvent"
+                  LastKnownLocation="Autofirma.uml" />
+              </executionOccurrenceSpecificationReferencesEvent>
+            </event>
+            <covered>
+              <lifelineMoniker
+                Id="2195525d-7bc1-4811-85ee-edf861ac3dc4"
+                LastKnownName="Patient"
+                LastKnownLocation="Autofirma.uml" />
+            </covered>
+          </executionOccurrenceSpecification>
+          <behaviorExecutionSpecification
+            Id="27e3e9f9-a151-4deb-97ae-8fc358370611"
+            name="BehaviorExecutionSpecification11">
+            <coveredLifelines>
+              <lifelineMoniker
+                Id="2bfc01ee-b90a-4041-9459-b6fdc8e064b3"
+                LastKnownName="Ydelser"
+                LastKnownLocation="Autofirma.uml" />
+            </coveredLifelines>
+            <finish>
+              <executionOccurrenceSpecificationMoniker
+                Id="eb5130b9-c14a-441e-b9d4-b57b0b6d9f8b"
+                LastKnownName="ExecutionOccurrenceSpecification22"
+                LastKnownLocation="Autofirma.uml" />
+            </finish>
+            <start>
+              <executionOccurrenceSpecificationMoniker
+                Id="5e73e7ab-2e7f-4f8c-9046-52c66745b3ce"
+                LastKnownName="ExecutionOccurrenceSpecification21"
+                LastKnownLocation="Autofirma.uml" />
+            </start>
+            <nestedOccurrences>
+              <messageOccurrenceSpecificationMoniker
+                Id="051d5c5b-fa91-404f-bae3-a7f9e0723a32"
+                LastKnownName="MessageOccurrenceSpecification28"
+                LastKnownLocation="Autofirma.uml" />
+              <messageOccurrenceSpecificationMoniker
+                Id="475dec92-514c-42a1-9fbe-9cb5f80807ad"
+                LastKnownName="MessageOccurrenceSpecification29"
+                LastKnownLocation="Autofirma.uml" />
+            </nestedOccurrences>
+          </behaviorExecutionSpecification>
+          <executionOccurrenceSpecification
+            Id="5e73e7ab-2e7f-4f8c-9046-52c66745b3ce"
+            name="ExecutionOccurrenceSpecification21">
+            <event>
+              <executionOccurrenceSpecificationReferencesEvent>
+                <executionEventMoniker
+                  Id="c4a6e6bc-583b-455f-b26d-959c45f8bff9"
+                  LastKnownName="ExecutionEvent"
+                  LastKnownLocation="Autofirma.uml" />
+              </executionOccurrenceSpecificationReferencesEvent>
+            </event>
+            <covered>
+              <lifelineMoniker
+                Id="2bfc01ee-b90a-4041-9459-b6fdc8e064b3"
+                LastKnownName="Ydelser"
+                LastKnownLocation="Autofirma.uml" />
+            </covered>
+          </executionOccurrenceSpecification>
+          <messageOccurrenceSpecification
+            Id="fe0ed95a-8d54-43a4-b002-26f7f67c0731"
+            name="MessageOccurrenceSpecification27">
+            <covered>
+              <lifelineMoniker
+                Id="2195525d-7bc1-4811-85ee-edf861ac3dc4"
+                LastKnownName="Patient"
+                LastKnownLocation="Autofirma.uml" />
+            </covered>
+          </messageOccurrenceSpecification>
+          <messageOccurrenceSpecification
+            Id="051d5c5b-fa91-404f-bae3-a7f9e0723a32"
+            name="MessageOccurrenceSpecification28">
+            <covered>
+              <lifelineMoniker
+                Id="2bfc01ee-b90a-4041-9459-b6fdc8e064b3"
+                LastKnownName="Ydelser"
+                LastKnownLocation="Autofirma.uml" />
+            </covered>
+          </messageOccurrenceSpecification>
+          <messageOccurrenceSpecification
+            Id="475dec92-514c-42a1-9fbe-9cb5f80807ad"
+            name="MessageOccurrenceSpecification29">
+            <covered>
+              <lifelineMoniker
+                Id="2bfc01ee-b90a-4041-9459-b6fdc8e064b3"
+                LastKnownName="Ydelser"
+                LastKnownLocation="Autofirma.uml" />
+            </covered>
+          </messageOccurrenceSpecification>
+          <messageOccurrenceSpecification
+            Id="e5e3ca8b-2e31-40df-ab9e-3670289e7a58"
+            name="MessageOccurrenceSpecification30">
+            <covered>
+              <lifelineMoniker
+                Id="2195525d-7bc1-4811-85ee-edf861ac3dc4"
+                LastKnownName="Patient"
+                LastKnownLocation="Autofirma.uml" />
+            </covered>
+          </messageOccurrenceSpecification>
+          <executionOccurrenceSpecification
+            Id="eb5130b9-c14a-441e-b9d4-b57b0b6d9f8b"
+            name="ExecutionOccurrenceSpecification22">
+            <event>
+              <executionOccurrenceSpecificationReferencesEvent>
+                <executionEventMoniker
+                  Id="6ea6a6ca-1fb9-42a3-a439-6e51dc279764"
+                  LastKnownName="ExecutionEvent"
+                  LastKnownLocation="Autofirma.uml" />
+              </executionOccurrenceSpecificationReferencesEvent>
+            </event>
+            <covered>
+              <lifelineMoniker
+                Id="2bfc01ee-b90a-4041-9459-b6fdc8e064b3"
+                LastKnownName="Ydelser"
+                LastKnownLocation="Autofirma.uml" />
+            </covered>
+          </executionOccurrenceSpecification>
+        </fragments>
+        <lifelines>
+          <lifeline
+            Id="b1e8da01-1b22-4d05-8112-2487d7a18369"
+            name="Lifeline2"
+            isActor="false"
+            lifelineDisplayName="Lifeline2">
+            <topLevelOccurrences>
+              <messageOccurrenceSpecificationMoniker
+                Id="d491c77b-607d-4c7c-b769-ed23cd19a93f"
+                LastKnownName="MessageOccurrenceSpecification19"
+                LastKnownLocation="Autofirma.uml" />
+              <messageOccurrenceSpecificationMoniker
+                Id="6c7a33d0-d340-41eb-b579-b70b6d185d7d"
+                LastKnownName="MessageOccurrenceSpecification22"
+                LastKnownLocation="Autofirma.uml" />
+            </topLevelOccurrences>
+          </lifeline>
+          <lifeline
+            Id="2195525d-7bc1-4811-85ee-edf861ac3dc4"
+            name="Patient"
+            isActor="false"
+            lifelineDisplayName="Patient">
+            <topLevelOccurrences>
+              <executionOccurrenceSpecificationMoniker
+                Id="23ed1260-3806-4e79-9cfa-c54071140da1"
+                LastKnownName="ExecutionOccurrenceSpecification17"
+                LastKnownLocation="Autofirma.uml" />
+              <executionOccurrenceSpecificationMoniker
+                Id="6ed129cb-62fb-4c14-9b33-0e664a13fd22"
+                LastKnownName="ExecutionOccurrenceSpecification18"
+                LastKnownLocation="Autofirma.uml" />
+              <messageOccurrenceSpecificationMoniker
+                Id="fe0ed95a-8d54-43a4-b002-26f7f67c0731"
+                LastKnownName="MessageOccurrenceSpecification27"
+                LastKnownLocation="Autofirma.uml" />
+              <messageOccurrenceSpecificationMoniker
+                Id="e5e3ca8b-2e31-40df-ab9e-3670289e7a58"
+                LastKnownName="MessageOccurrenceSpecification30"
+                LastKnownLocation="Autofirma.uml" />
+            </topLevelOccurrences>
+          </lifeline>
+          <lifeline
+            Id="2bfc01ee-b90a-4041-9459-b6fdc8e064b3"
+            name="Ydelser"
+            isActor="false"
+            lifelineDisplayName="Ydelser">
+            <topLevelOccurrences>
+              <executionOccurrenceSpecificationMoniker
+                Id="5e73e7ab-2e7f-4f8c-9046-52c66745b3ce"
+                LastKnownName="ExecutionOccurrenceSpecification21"
+                LastKnownLocation="Autofirma.uml" />
+              <executionOccurrenceSpecificationMoniker
+                Id="eb5130b9-c14a-441e-b9d4-b57b0b6d9f8b"
+                LastKnownName="ExecutionOccurrenceSpecification22"
+                LastKnownLocation="Autofirma.uml" />
+            </topLevelOccurrences>
+          </lifeline>
+          <lifeline
+            Id="334d2fcb-1446-462a-8c3a-c48f9ddbabeb"
+            name="Lifeline1"
+            isActor="false"
+            lifelineDisplayName="Lifeline1" />
+        </lifelines>
+        <messages>
+          <message
+            Id="6e242fc6-d3a2-4108-b41e-b1b9a9767a89"
+            name="OpretPatint()"
+            messageKind="Complete"
+            messageSort="SynchCall"
+            createSelfMessage="false">
+            <sendEvent>
+              <messageOccurrenceSpecificationMoniker
+                Id="d491c77b-607d-4c7c-b769-ed23cd19a93f"
+                LastKnownName="MessageOccurrenceSpecification19"
+                LastKnownLocation="Autofirma.uml" />
+            </sendEvent>
+            <receiveEvent>
+              <messageOccurrenceSpecificationMoniker
+                Id="1efa8a89-37a1-45e2-820b-c8d7cfd18395"
+                LastKnownName="MessageOccurrenceSpecification20"
+                LastKnownLocation="Autofirma.uml" />
+            </receiveEvent>
+          </message>
+          <message
+            Id="5bd4d395-8181-452f-8a3f-3c65228d016c"
+            name="HentPatient()"
+            messageKind="Complete"
+            messageSort="Reply"
+            createSelfMessage="false">
+            <sendEvent>
+              <messageOccurrenceSpecificationMoniker
+                Id="32045ba8-7c34-4c5c-86bd-f5b1d56889c7"
+                LastKnownName="MessageOccurrenceSpecification21"
+                LastKnownLocation="Autofirma.uml" />
+            </sendEvent>
+            <receiveEvent>
+              <messageOccurrenceSpecificationMoniker
+                Id="6c7a33d0-d340-41eb-b579-b70b6d185d7d"
+                LastKnownName="MessageOccurrenceSpecification22"
+                LastKnownLocation="Autofirma.uml" />
+            </receiveEvent>
+          </message>
+          <message
+            Id="7786585d-376c-4053-8a06-51917f063708"
+            name="FindYdelse()"
+            messageKind="Complete"
+            messageSort="SynchCall"
+            createSelfMessage="false">
+            <sendEvent>
+              <messageOccurrenceSpecificationMoniker
+                Id="fe0ed95a-8d54-43a4-b002-26f7f67c0731"
+                LastKnownName="MessageOccurrenceSpecification27"
+                LastKnownLocation="Autofirma.uml" />
+            </sendEvent>
+            <receiveEvent>
+              <messageOccurrenceSpecificationMoniker
+                Id="051d5c5b-fa91-404f-bae3-a7f9e0723a32"
+                LastKnownName="MessageOccurrenceSpecification28"
+                LastKnownLocation="Autofirma.uml" />
+            </receiveEvent>
+          </message>
+          <message
+            Id="6e254d49-0e59-4c2a-8bcc-062e81cb5c63"
+            name="HentYdelser()"
+            messageKind="Complete"
+            messageSort="Reply"
+            createSelfMessage="false">
+            <sendEvent>
+              <messageOccurrenceSpecificationMoniker
+                Id="475dec92-514c-42a1-9fbe-9cb5f80807ad"
+                LastKnownName="MessageOccurrenceSpecification29"
+                LastKnownLocation="Autofirma.uml" />
+            </sendEvent>
+            <receiveEvent>
+              <messageOccurrenceSpecificationMoniker
+                Id="e5e3ca8b-2e31-40df-ab9e-3670289e7a58"
+                LastKnownName="MessageOccurrenceSpecification30"
+                LastKnownLocation="Autofirma.uml" />
+            </receiveEvent>
+          </message>
+        </messages>
+      </interaction>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <executionEvent
+        Id="11c6eb5a-1f8f-4b1d-95b3-b9486616f5b8"
+        name="ExecutionEvent" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <executionEvent
+        Id="96bfa62e-4860-46a0-a536-60330ab11013"
+        name="ExecutionEvent" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <executionEvent
+        Id="c4a6e6bc-583b-455f-b26d-959c45f8bff9"
+        name="ExecutionEvent" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <executionEvent
+        Id="6ea6a6ca-1fb9-42a3-a439-6e51dc279764"
+        name="ExecutionEvent" />
+    </packageHasNamedElement>
+  </packagedElements>
+  <primitiveType
+    Id="220a3521-e091-4221-bae9-3ef9018e845c"
+    name="Integer"
+    isAbstract="false"
+    isLeaf="false" />
+  <primitiveType
+    Id="8943dc84-709e-4f62-b15a-a3273aa6f165"
+    name="Boolean"
+    isAbstract="false"
+    isLeaf="false" />
+  <primitiveType
+    Id="59259974-6d55-42c6-b7bd-763d77ac8ef9"
+    name="String"
+    isAbstract="false"
+    isLeaf="false" />
+  <primitiveType
+    Id="3ab42e7d-4969-445a-b209-471f5cb8209c"
+    name="UnlimitedNatural"
+    isAbstract="false"
+    isLeaf="false" />
+</modelStoreModel>

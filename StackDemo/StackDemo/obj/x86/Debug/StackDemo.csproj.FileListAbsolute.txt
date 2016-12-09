@@ -1,0 +1,5 @@
+C:\Users\Patrick Larsen\AppData\Local\Temporary Projects\StackDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Patrick Larsen\AppData\Local\Temporary Projects\StackDemo\bin\Debug\StackDemo.exe
+C:\Users\Patrick Larsen\AppData\Local\Temporary Projects\StackDemo\bin\Debug\StackDemo.pdb
+C:\Users\Patrick Larsen\AppData\Local\Temporary Projects\StackDemo\obj\x86\Debug\StackDemo.exe
+C:\Users\Patrick Larsen\AppData\Local\Temporary Projects\StackDemo\obj\x86\Debug\StackDemo.pdb

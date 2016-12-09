@@ -1,0 +1,10 @@
+C:\Users\Patrick Larsen\AppData\Local\Temporary Projects\femogtyve\bin\Debug\femogtyve.exe
+C:\Users\Patrick Larsen\AppData\Local\Temporary Projects\femogtyve\bin\Debug\femogtyve.pdb
+C:\Users\Patrick Larsen\AppData\Local\Temporary Projects\femogtyve\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Patrick Larsen\AppData\Local\Temporary Projects\femogtyve\obj\x86\Debug\femogtyve.exe
+C:\Users\Patrick Larsen\AppData\Local\Temporary Projects\femogtyve\obj\x86\Debug\femogtyve.pdb
+C:\Users\Patrick Larsen\documents\visual studio 2010\Projects\femogtyve\femogtyve\obj\x86\Debug\femogtyve.exe
+C:\Users\Patrick Larsen\documents\visual studio 2010\Projects\femogtyve\femogtyve\obj\x86\Debug\femogtyve.pdb
+C:\Users\Patrick Larsen\documents\visual studio 2010\Projects\femogtyve\femogtyve\bin\Debug\femogtyve.exe
+C:\Users\Patrick Larsen\documents\visual studio 2010\Projects\femogtyve\femogtyve\bin\Debug\femogtyve.pdb
+C:\Users\Patrick Larsen\documents\visual studio 2010\Projects\femogtyve\femogtyve\obj\x86\Debug\ResolveAssemblyReference.cache

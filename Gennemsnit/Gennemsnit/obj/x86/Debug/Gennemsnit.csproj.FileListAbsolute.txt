@@ -1,0 +1,10 @@
+C:\Users\Patrick Larsen\AppData\Local\Temporary Projects\Gennemsnit\bin\Debug\Gennemsnit.exe
+C:\Users\Patrick Larsen\AppData\Local\Temporary Projects\Gennemsnit\bin\Debug\Gennemsnit.pdb
+C:\Users\Patrick Larsen\AppData\Local\Temporary Projects\Gennemsnit\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Patrick Larsen\AppData\Local\Temporary Projects\Gennemsnit\obj\x86\Debug\Gennemsnit.exe
+C:\Users\Patrick Larsen\AppData\Local\Temporary Projects\Gennemsnit\obj\x86\Debug\Gennemsnit.pdb
+C:\Users\Patrick Larsen\documents\visual studio 2010\Projects\Gennemsnit\Gennemsnit\obj\x86\Debug\Gennemsnit.exe
+C:\Users\Patrick Larsen\documents\visual studio 2010\Projects\Gennemsnit\Gennemsnit\obj\x86\Debug\Gennemsnit.pdb
+C:\Users\Patrick Larsen\documents\visual studio 2010\Projects\Gennemsnit\Gennemsnit\bin\Debug\Gennemsnit.exe
+C:\Users\Patrick Larsen\documents\visual studio 2010\Projects\Gennemsnit\Gennemsnit\bin\Debug\Gennemsnit.pdb
+C:\Users\Patrick Larsen\documents\visual studio 2010\Projects\Gennemsnit\Gennemsnit\obj\x86\Debug\ResolveAssemblyReference.cache

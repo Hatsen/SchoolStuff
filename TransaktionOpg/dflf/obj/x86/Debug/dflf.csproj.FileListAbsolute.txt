@@ -1,0 +1,5 @@
+C:\Users\Patrick Larsen\Documents\Visual Studio 2010\Projects\TransaktionOpg\dflf\bin\Debug\dflf.exe
+C:\Users\Patrick Larsen\Documents\Visual Studio 2010\Projects\TransaktionOpg\dflf\bin\Debug\dflf.pdb
+C:\Users\Patrick Larsen\Documents\Visual Studio 2010\Projects\TransaktionOpg\dflf\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Patrick Larsen\Documents\Visual Studio 2010\Projects\TransaktionOpg\dflf\obj\x86\Debug\dflf.exe
+C:\Users\Patrick Larsen\Documents\Visual Studio 2010\Projects\TransaktionOpg\dflf\obj\x86\Debug\dflf.pdb

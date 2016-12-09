@@ -1,0 +1,7 @@
+C:\Users\Patrick Larsen\AppData\Local\Temporary Projects\BrevPorto\bin\Debug\BrevPorto.exe
+C:\Users\Patrick Larsen\AppData\Local\Temporary Projects\BrevPorto\bin\Debug\BrevPorto.pdb
+C:\Users\Patrick Larsen\AppData\Local\Temporary Projects\BrevPorto\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Patrick Larsen\AppData\Local\Temporary Projects\BrevPorto\obj\x86\Debug\BrevPorto.exe
+C:\Users\Patrick Larsen\AppData\Local\Temporary Projects\BrevPorto\obj\x86\Debug\BrevPorto.pdb
+C:\Users\Patrick Larsen\Documents\Visual Studio 2010\Projects\BrevPorto\BrevPorto\obj\x86\Debug\BrevPorto.exe
+C:\Users\Patrick Larsen\Documents\Visual Studio 2010\Projects\BrevPorto\BrevPorto\obj\x86\Debug\BrevPorto.pdb

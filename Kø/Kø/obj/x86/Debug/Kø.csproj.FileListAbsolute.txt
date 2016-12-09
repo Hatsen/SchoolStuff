@@ -1,0 +1,5 @@
+C:\Users\Patrick Larsen\AppData\Local\Temporary Projects\Kø\bin\Debug\Kø.exe
+C:\Users\Patrick Larsen\AppData\Local\Temporary Projects\Kø\bin\Debug\Kø.pdb
+C:\Users\Patrick Larsen\AppData\Local\Temporary Projects\Kø\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Patrick Larsen\AppData\Local\Temporary Projects\Kø\obj\x86\Debug\Kø.exe
+C:\Users\Patrick Larsen\AppData\Local\Temporary Projects\Kø\obj\x86\Debug\Kø.pdb

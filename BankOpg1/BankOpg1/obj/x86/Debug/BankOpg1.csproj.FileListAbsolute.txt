@@ -1,0 +1,5 @@
+C:\Users\Patrick Larsen\AppData\Local\Temporary Projects\BankOpg1\bin\Debug\BankOpg1.exe
+C:\Users\Patrick Larsen\AppData\Local\Temporary Projects\BankOpg1\bin\Debug\BankOpg1.pdb
+C:\Users\Patrick Larsen\AppData\Local\Temporary Projects\BankOpg1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Patrick Larsen\AppData\Local\Temporary Projects\BankOpg1\obj\x86\Debug\BankOpg1.exe
+C:\Users\Patrick Larsen\AppData\Local\Temporary Projects\BankOpg1\obj\x86\Debug\BankOpg1.pdb

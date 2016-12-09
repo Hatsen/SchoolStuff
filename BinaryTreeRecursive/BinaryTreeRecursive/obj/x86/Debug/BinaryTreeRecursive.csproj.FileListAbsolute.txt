@@ -1,0 +1,5 @@
+C:\Users\Patrick Larsen\documents\visual studio 2010\Projects\BinaryTreeRecursive\BinaryTreeRecursive\bin\Debug\BinaryTreeRecursive.exe
+C:\Users\Patrick Larsen\documents\visual studio 2010\Projects\BinaryTreeRecursive\BinaryTreeRecursive\bin\Debug\BinaryTreeRecursive.pdb
+C:\Users\Patrick Larsen\documents\visual studio 2010\Projects\BinaryTreeRecursive\BinaryTreeRecursive\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Patrick Larsen\documents\visual studio 2010\Projects\BinaryTreeRecursive\BinaryTreeRecursive\obj\x86\Debug\BinaryTreeRecursive.exe
+C:\Users\Patrick Larsen\documents\visual studio 2010\Projects\BinaryTreeRecursive\BinaryTreeRecursive\obj\x86\Debug\BinaryTreeRecursive.pdb

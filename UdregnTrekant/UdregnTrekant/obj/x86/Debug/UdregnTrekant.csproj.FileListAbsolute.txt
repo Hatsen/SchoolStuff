@@ -1,0 +1,7 @@
+C:\Users\Patrick Larsen\AppData\Local\Temporary Projects\UdregnTrekant\bin\Debug\UdregnTrekant.exe
+C:\Users\Patrick Larsen\AppData\Local\Temporary Projects\UdregnTrekant\bin\Debug\UdregnTrekant.pdb
+C:\Users\Patrick Larsen\AppData\Local\Temporary Projects\UdregnTrekant\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Patrick Larsen\AppData\Local\Temporary Projects\UdregnTrekant\obj\x86\Debug\UdregnTrekant.exe
+C:\Users\Patrick Larsen\AppData\Local\Temporary Projects\UdregnTrekant\obj\x86\Debug\UdregnTrekant.pdb
+C:\Users\Patrick Larsen\Documents\Visual Studio 2010\Projects\UdregnTrekant\UdregnTrekant\obj\x86\Debug\UdregnTrekant.exe
+C:\Users\Patrick Larsen\Documents\Visual Studio 2010\Projects\UdregnTrekant\UdregnTrekant\obj\x86\Debug\UdregnTrekant.pdb

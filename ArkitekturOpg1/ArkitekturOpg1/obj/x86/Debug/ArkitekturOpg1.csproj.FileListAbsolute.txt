@@ -1,0 +1,5 @@
+C:\Users\Patrick Larsen\documents\visual studio 2010\Projects\ArkitekturOpg1\ArkitekturOpg1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Patrick Larsen\documents\visual studio 2010\Projects\ArkitekturOpg1\ArkitekturOpg1\bin\Debug\ArkitekturOpg1.exe
+C:\Users\Patrick Larsen\documents\visual studio 2010\Projects\ArkitekturOpg1\ArkitekturOpg1\bin\Debug\ArkitekturOpg1.pdb
+C:\Users\Patrick Larsen\documents\visual studio 2010\Projects\ArkitekturOpg1\ArkitekturOpg1\obj\x86\Debug\ArkitekturOpg1.exe
+C:\Users\Patrick Larsen\documents\visual studio 2010\Projects\ArkitekturOpg1\ArkitekturOpg1\obj\x86\Debug\ArkitekturOpg1.pdb

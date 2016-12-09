@@ -1,0 +1,10 @@
+C:\Users\Patrick Larsen\AppData\Local\Temporary Projects\Array\bin\Debug\Array.exe
+C:\Users\Patrick Larsen\AppData\Local\Temporary Projects\Array\bin\Debug\Array.pdb
+C:\Users\Patrick Larsen\AppData\Local\Temporary Projects\Array\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Patrick Larsen\AppData\Local\Temporary Projects\Array\obj\x86\Debug\Array.exe
+C:\Users\Patrick Larsen\AppData\Local\Temporary Projects\Array\obj\x86\Debug\Array.pdb
+C:\Users\Patrick Larsen\documents\visual studio 2010\Projects\Array\Array\obj\x86\Debug\Array.exe
+C:\Users\Patrick Larsen\documents\visual studio 2010\Projects\Array\Array\obj\x86\Debug\Array.pdb
+C:\Users\Patrick Larsen\documents\visual studio 2010\Projects\Array\Array\bin\Debug\Array.exe
+C:\Users\Patrick Larsen\documents\visual studio 2010\Projects\Array\Array\bin\Debug\Array.pdb
+C:\Users\Patrick Larsen\documents\visual studio 2010\Projects\Array\Array\obj\x86\Debug\ResolveAssemblyReference.cache

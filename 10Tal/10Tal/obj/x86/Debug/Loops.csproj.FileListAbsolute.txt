@@ -1,0 +1,5 @@
+C:\Users\Patrick Larsen\AppData\Local\Temporary Projects\Loops\bin\Debug\Loops.exe
+C:\Users\Patrick Larsen\AppData\Local\Temporary Projects\Loops\bin\Debug\Loops.pdb
+C:\Users\Patrick Larsen\AppData\Local\Temporary Projects\Loops\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Patrick Larsen\AppData\Local\Temporary Projects\Loops\obj\x86\Debug\Loops.exe
+C:\Users\Patrick Larsen\AppData\Local\Temporary Projects\Loops\obj\x86\Debug\Loops.pdb

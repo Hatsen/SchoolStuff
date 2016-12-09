@@ -1,0 +1,10 @@
+C:\Users\Patrick Larsen\AppData\Local\Temporary Projects\BinaerSoegning\bin\Debug\BinaerSoegning.exe
+C:\Users\Patrick Larsen\AppData\Local\Temporary Projects\BinaerSoegning\bin\Debug\BinaerSoegning.pdb
+C:\Users\Patrick Larsen\AppData\Local\Temporary Projects\BinaerSoegning\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Patrick Larsen\AppData\Local\Temporary Projects\BinaerSoegning\obj\x86\Debug\BinaerSoegning.exe
+C:\Users\Patrick Larsen\AppData\Local\Temporary Projects\BinaerSoegning\obj\x86\Debug\BinaerSoegning.pdb
+C:\Users\Patrick Larsen\Documents\Visual Studio 2010\Projects\BinaerSoegning\BinaerSoegning\obj\x86\Debug\BinaerSoegning.exe
+C:\Users\Patrick Larsen\Documents\Visual Studio 2010\Projects\BinaerSoegning\BinaerSoegning\obj\x86\Debug\BinaerSoegning.pdb
+C:\Users\Patrick Larsen\Documents\Visual Studio 2010\Projects\BinaerSoegning\BinaerSoegning\bin\Debug\BinaerSoegning.exe
+C:\Users\Patrick Larsen\Documents\Visual Studio 2010\Projects\BinaerSoegning\BinaerSoegning\bin\Debug\BinaerSoegning.pdb
+C:\Users\Patrick Larsen\Documents\Visual Studio 2010\Projects\BinaerSoegning\BinaerSoegning\obj\x86\Debug\ResolveAssemblyReference.cache

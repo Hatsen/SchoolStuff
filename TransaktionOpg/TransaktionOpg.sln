@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransaktionOpg", "TransaktionOpg\TransaktionOpg.csproj", "{5A4D2CF5-E2E3-4DFB-848B-9EFA2B367C7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dflf", "dflf\dflf.csproj", "{2EC8F5D8-7D5B-4668-AC7C-32DADA58C7CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A4D2CF5-E2E3-4DFB-848B-9EFA2B367C7B}.Debug|x86.ActiveCfg = Debug|x86
+		{5A4D2CF5-E2E3-4DFB-848B-9EFA2B367C7B}.Debug|x86.Build.0 = Debug|x86
+		{5A4D2CF5-E2E3-4DFB-848B-9EFA2B367C7B}.Release|x86.ActiveCfg = Release|x86
+		{5A4D2CF5-E2E3-4DFB-848B-9EFA2B367C7B}.Release|x86.Build.0 = Release|x86
+		{2EC8F5D8-7D5B-4668-AC7C-32DADA58C7CB}.Debug|x86.ActiveCfg = Debug|x86
+		{2EC8F5D8-7D5B-4668-AC7C-32DADA58C7CB}.Debug|x86.Build.0 = Debug|x86
+		{2EC8F5D8-7D5B-4668-AC7C-32DADA58C7CB}.Release|x86.ActiveCfg = Release|x86
+		{2EC8F5D8-7D5B-4668-AC7C-32DADA58C7CB}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

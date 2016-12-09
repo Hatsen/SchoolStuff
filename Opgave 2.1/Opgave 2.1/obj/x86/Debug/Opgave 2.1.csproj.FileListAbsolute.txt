@@ -1,0 +1,7 @@
+C:\Users\Patrick Larsen\AppData\Local\Temporary Projects\Opgave 2.1\bin\Debug\Opgave 2.1.exe
+C:\Users\Patrick Larsen\AppData\Local\Temporary Projects\Opgave 2.1\bin\Debug\Opgave 2.1.pdb
+C:\Users\Patrick Larsen\AppData\Local\Temporary Projects\Opgave 2.1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Patrick Larsen\AppData\Local\Temporary Projects\Opgave 2.1\obj\x86\Debug\Opgave 2.1.exe
+C:\Users\Patrick Larsen\AppData\Local\Temporary Projects\Opgave 2.1\obj\x86\Debug\Opgave 2.1.pdb
+C:\Users\Patrick Larsen\documents\visual studio 2010\Projects\Opgave 2.1\Opgave 2.1\obj\x86\Debug\Opgave 2.1.exe
+C:\Users\Patrick Larsen\documents\visual studio 2010\Projects\Opgave 2.1\Opgave 2.1\obj\x86\Debug\Opgave 2.1.pdb

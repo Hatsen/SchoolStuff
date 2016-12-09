@@ -1,0 +1,5 @@
+C:\Users\Patrick Larsen\documents\visual studio 2010\Projects\BinærTræ\BinærTræ\bin\Debug\BinærTræ.exe
+C:\Users\Patrick Larsen\documents\visual studio 2010\Projects\BinærTræ\BinærTræ\bin\Debug\BinærTræ.pdb
+C:\Users\Patrick Larsen\documents\visual studio 2010\Projects\BinærTræ\BinærTræ\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Patrick Larsen\documents\visual studio 2010\Projects\BinærTræ\BinærTræ\obj\x86\Debug\BinærTræ.exe
+C:\Users\Patrick Larsen\documents\visual studio 2010\Projects\BinærTræ\BinærTræ\obj\x86\Debug\BinærTræ.pdb

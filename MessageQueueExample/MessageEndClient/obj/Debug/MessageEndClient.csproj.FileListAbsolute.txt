@@ -1,0 +1,15 @@
+C:\Users\Patrick\documents\visual studio 2013\Projects\MessageQueueExample\MessageEndClient\obj\Debug\MessageEndClient.csprojResolveAssemblyReference.cache
+C:\Users\Patrick\documents\visual studio 2013\Projects\MessageQueueExample\MessageEndClient\bin\Debug\MessageEndClient.exe.config
+C:\Users\Patrick\documents\visual studio 2013\Projects\MessageQueueExample\MessageEndClient\bin\Debug\MessageEndClient.exe
+C:\Users\Patrick\documents\visual studio 2013\Projects\MessageQueueExample\MessageEndClient\bin\Debug\MessageEndClient.pdb
+C:\Users\Patrick\documents\visual studio 2013\Projects\MessageQueueExample\MessageEndClient\obj\Debug\MessageEndClient.exe
+C:\Users\Patrick\documents\visual studio 2013\Projects\MessageQueueExample\MessageEndClient\obj\Debug\MessageEndClient.pdb
+C:\Users\Patrick\Google Drev\MessageQueueExample\MessageEndClient\bin\Debug\MessageEndClient.exe.config
+C:\Users\Patrick\Google Drev\MessageQueueExample\MessageEndClient\obj\Debug\MessageEndClient.exe
+C:\Users\Patrick\Google Drev\MessageQueueExample\MessageEndClient\obj\Debug\MessageEndClient.pdb
+C:\Users\Patrick\Google Drev\MessageQueueExample\MessageEndClient\obj\Debug\MessageEndClient.csprojResolveAssemblyReference.cache
+C:\Users\Patrick\Google Drev\MessageQueueExample\MessageEndClient\bin\Debug\MessageEndClient.exe
+C:\Users\Patrick\Google Drev\MessageQueueExample\MessageEndClient\bin\Debug\MessageEndClient.pdb
+C:\Users\Patrick\Google Drev\Code\Projects\MessageQueueExample\MessageEndClient\bin\Debug\MessageEndClient.exe.config
+C:\Users\Patrick\Google Drev\Code\Projects\MessageQueueExample\MessageEndClient\obj\Debug\MessageEndClient.exe
+C:\Users\Patrick\Google Drev\Code\Projects\MessageQueueExample\MessageEndClient\obj\Debug\MessageEndClient.pdb

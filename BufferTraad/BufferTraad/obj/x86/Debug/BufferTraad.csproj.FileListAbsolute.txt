@@ -1,0 +1,5 @@
+C:\Users\Patrick Larsen\documents\visual studio 2010\Projects\BufferTraad\BufferTraad\bin\Debug\BufferTraad.exe
+C:\Users\Patrick Larsen\documents\visual studio 2010\Projects\BufferTraad\BufferTraad\bin\Debug\BufferTraad.pdb
+C:\Users\Patrick Larsen\documents\visual studio 2010\Projects\BufferTraad\BufferTraad\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Patrick Larsen\documents\visual studio 2010\Projects\BufferTraad\BufferTraad\obj\x86\Debug\BufferTraad.exe
+C:\Users\Patrick Larsen\documents\visual studio 2010\Projects\BufferTraad\BufferTraad\obj\x86\Debug\BufferTraad.pdb

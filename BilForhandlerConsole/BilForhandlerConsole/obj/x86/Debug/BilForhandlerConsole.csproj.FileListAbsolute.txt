@@ -1,0 +1,5 @@
+C:\Users\Patrick Larsen\Documents\Visual Studio 2010\Projects\BilForhandlerConsole\BilForhandlerConsole\bin\Debug\BilForhandlerConsole.exe
+C:\Users\Patrick Larsen\Documents\Visual Studio 2010\Projects\BilForhandlerConsole\BilForhandlerConsole\bin\Debug\BilForhandlerConsole.pdb
+C:\Users\Patrick Larsen\Documents\Visual Studio 2010\Projects\BilForhandlerConsole\BilForhandlerConsole\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Patrick Larsen\Documents\Visual Studio 2010\Projects\BilForhandlerConsole\BilForhandlerConsole\obj\x86\Debug\BilForhandlerConsole.exe
+C:\Users\Patrick Larsen\Documents\Visual Studio 2010\Projects\BilForhandlerConsole\BilForhandlerConsole\obj\x86\Debug\BilForhandlerConsole.pdb

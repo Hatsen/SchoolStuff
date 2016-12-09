@@ -1,0 +1,5 @@
+C:\Users\Patrick Larsen\documents\visual studio 2010\Projects\Uge34Opg2\Uge34Opg2\bin\Debug\Uge34Opg2.exe
+C:\Users\Patrick Larsen\documents\visual studio 2010\Projects\Uge34Opg2\Uge34Opg2\bin\Debug\Uge34Opg2.pdb
+C:\Users\Patrick Larsen\documents\visual studio 2010\Projects\Uge34Opg2\Uge34Opg2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Patrick Larsen\documents\visual studio 2010\Projects\Uge34Opg2\Uge34Opg2\obj\x86\Debug\Uge34Opg2.exe
+C:\Users\Patrick Larsen\documents\visual studio 2010\Projects\Uge34Opg2\Uge34Opg2\obj\x86\Debug\Uge34Opg2.pdb

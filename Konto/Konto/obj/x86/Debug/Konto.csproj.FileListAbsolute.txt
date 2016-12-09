@@ -1,0 +1,10 @@
+C:\Users\Patrick Larsen\AppData\Local\Temporary Projects\Konto\bin\Debug\Konto.exe
+C:\Users\Patrick Larsen\AppData\Local\Temporary Projects\Konto\bin\Debug\Konto.pdb
+C:\Users\Patrick Larsen\AppData\Local\Temporary Projects\Konto\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Patrick Larsen\AppData\Local\Temporary Projects\Konto\obj\x86\Debug\Konto.exe
+C:\Users\Patrick Larsen\AppData\Local\Temporary Projects\Konto\obj\x86\Debug\Konto.pdb
+C:\Users\Patrick Larsen\documents\visual studio 2010\Projects\Konto\Konto\obj\x86\Debug\Konto.exe
+C:\Users\Patrick Larsen\documents\visual studio 2010\Projects\Konto\Konto\obj\x86\Debug\Konto.pdb
+C:\Users\Patrick Larsen\documents\visual studio 2010\Projects\Konto\Konto\bin\Debug\Konto.exe
+C:\Users\Patrick Larsen\documents\visual studio 2010\Projects\Konto\Konto\bin\Debug\Konto.pdb
+C:\Users\Patrick Larsen\documents\visual studio 2010\Projects\Konto\Konto\obj\x86\Debug\ResolveAssemblyReference.cache

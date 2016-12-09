@@ -1,0 +1,7 @@
+C:\Users\Patrick Larsen\AppData\Local\Temporary Projects\ContainerOpgave\bin\Debug\ContainerOpgave.exe
+C:\Users\Patrick Larsen\AppData\Local\Temporary Projects\ContainerOpgave\bin\Debug\ContainerOpgave.pdb
+C:\Users\Patrick Larsen\AppData\Local\Temporary Projects\ContainerOpgave\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Patrick Larsen\AppData\Local\Temporary Projects\ContainerOpgave\obj\x86\Debug\ContainerOpgave.exe
+C:\Users\Patrick Larsen\AppData\Local\Temporary Projects\ContainerOpgave\obj\x86\Debug\ContainerOpgave.pdb
+C:\Users\Patrick Larsen\documents\visual studio 2010\Projects\ContainerOpgave\ContainerOpgave\obj\x86\Debug\ContainerOpgave.exe
+C:\Users\Patrick Larsen\documents\visual studio 2010\Projects\ContainerOpgave\ContainerOpgave\obj\x86\Debug\ContainerOpgave.pdb

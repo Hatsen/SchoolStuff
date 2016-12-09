@@ -1,0 +1,58 @@
+<?php
+
+//a simple converter from MySQL->SQLite3
+//By  Cytox  2010-09-05
+
+
+/*
+Changelog:
+
+v1.0.0 - 2010-09-05
+Initial release
+*/
+
+if($argc != 2)
+{
+	print "\r\nUsage:\r\n";
+	print basename($argv[0])." <MYSQL-FILE>\r\n";
+	exit(1);
+}
+
+if(getcwd() == "C:\Windows\system32")	//handle drag-n-drop
+{
+	chdir(dirname($argv[0]));
+}
+
+
+$SQL = file_get_contents($argv[1]);
+
+
+function TypePrimaryKey($M)
+{
+	return $M[1]." INTEGER PRIMARY KEY";
+}
+$SQL = preg_replace_callback("/([a-z]+[a-z0-9]*) INTEGER AUTO_INCREMENT,\r\n\tPRIMARY KEY\\([a-z]+[a-z0-9]*\\)/is", "TypePrimaryKey", $SQL);
+
+
+function TypeVarChar($M)
+{
+	return "TEXT";
+}
+$SQL = preg_replace_callback("/VARCHAR\\([0-9]+\\)/is", "TypeVarChar", $SQL);
+
+
+function TypeInteger($M)
+{
+	return str_replace($M[1], "NUMERIC", $M[0]);
+}
+$SQL = preg_replace_callback("/(INTEGER)[,\r]{1}/is", "TypeInteger", $SQL);
+
+//exit();
+
+
+
+
+
+file_put_contents(dirname($argv[1])."/".str_replace("MySQL", "SQLite3", basename($argv[1])), $SQL);
+
+?>

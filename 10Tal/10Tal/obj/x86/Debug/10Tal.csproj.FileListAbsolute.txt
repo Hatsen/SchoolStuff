@@ -1,0 +1,5 @@
+C:\Users\Patrick Larsen\Documents\Visual Studio 2010\Projects\10Tal\10Tal\bin\Debug\10Tal.exe
+C:\Users\Patrick Larsen\Documents\Visual Studio 2010\Projects\10Tal\10Tal\bin\Debug\10Tal.pdb
+C:\Users\Patrick Larsen\Documents\Visual Studio 2010\Projects\10Tal\10Tal\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Patrick Larsen\Documents\Visual Studio 2010\Projects\10Tal\10Tal\obj\x86\Debug\10Tal.exe
+C:\Users\Patrick Larsen\Documents\Visual Studio 2010\Projects\10Tal\10Tal\obj\x86\Debug\10Tal.pdb

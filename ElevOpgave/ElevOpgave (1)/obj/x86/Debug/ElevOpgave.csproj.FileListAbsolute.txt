@@ -1,0 +1,5 @@
+C:\Users\Patrick Larsen\AppData\Local\Temporary Projects\ElevOpgave\bin\Debug\ElevOpgave.exe
+C:\Users\Patrick Larsen\AppData\Local\Temporary Projects\ElevOpgave\bin\Debug\ElevOpgave.pdb
+C:\Users\Patrick Larsen\AppData\Local\Temporary Projects\ElevOpgave\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Patrick Larsen\AppData\Local\Temporary Projects\ElevOpgave\obj\x86\Debug\ElevOpgave.exe
+C:\Users\Patrick Larsen\AppData\Local\Temporary Projects\ElevOpgave\obj\x86\Debug\ElevOpgave.pdb
